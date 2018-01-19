@@ -61,4 +61,4 @@ typings/
 *.zip
 
 #credentials ignore
-credentials.csvv
+credentials.csv
