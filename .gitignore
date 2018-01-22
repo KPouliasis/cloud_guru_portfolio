@@ -62,3 +62,9 @@ typings/
 
 #credentials ignore
 credentials.csv
+
+#ignore vscode
+.vscode/
+
+#ignore env
+env/
